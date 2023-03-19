@@ -1,0 +1,1081 @@
+{
+    "Results": [
+      {
+        "Data": {
+          "GamePatchID": 36,
+          "ID": 1834,
+          "Icon": "/i/002000/002517.png",
+          "Name": "A Life of Adventure III",
+          "Name_cn": null,
+          "Name_de": "Tausendsassa III",
+          "Name_en": "A Life of Adventure III",
+          "Name_fr": "Prodige du corps et de l'esprit",
+          "Name_ja": "十四の道に選ばれし者",
+          "Name_kr": null,
+          "Url": "/Achievement/1834"
+        },
+        "Text": "Obtain the achievements “Mastering War III” and “Mastering Magic III.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 36,
+          "ID": 1876,
+          "Icon": "/i/021000/021901.png",
+          "Name": "Frequent Flyer II",
+          "Name_cn": null,
+          "Name_de": "Vielflieger II",
+          "Name_en": "Frequent Flyer II",
+          "Name_fr": "Navigateur des cieux de l'est",
+          "Name_ja": "紅蓮の風を知る者",
+          "Name_kr": null,
+          "Url": "/Achievement/1876"
+        },
+        "Text": "Obtain “Freebird” achievements for the Fringes, the Peaks, the Lochs, the Ruby Sea, Yanxia, and the Azim Steppe."
+      },
+      {
+        "Data": {
+          "GamePatchID": 36,
+          "ID": 1922,
+          "Icon": "/i/002000/002685.png",
+          "Name": "You Got Game",
+          "Name_cn": null,
+          "Name_de": "Legendärer Jäger",
+          "Name_en": "You Got Game",
+          "Name_fr": "Chasseur légendaire",
+          "Name_ja": "伝説モブハンター",
+          "Name_kr": null,
+          "Url": "/Achievement/1922"
+        },
+        "Text": "Obtain the achievements “Bring Your A Game V” and “Bring Your S Game V.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 58,
+          "ID": 2277,
+          "Icon": "/i/002000/002517.png",
+          "Name": "A Life of Adventure IV",
+          "Name_cn": null,
+          "Name_de": "Tausendsassa IV",
+          "Name_en": "A Life of Adventure IV",
+          "Name_fr": "Icône du corps et de l'esprit",
+          "Name_ja": "十六の道に愛されし者",
+          "Name_kr": null,
+          "Url": "/Achievement/2277"
+        },
+        "Text": "Obtain the achievements “Mastering War IV” and “Mastering Magic IV.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 58,
+          "ID": 2335,
+          "Icon": "/i/021000/021901.png",
+          "Name": "Frequent Flyer III",
+          "Name_cn": null,
+          "Name_de": "Vielflieger III",
+          "Name_en": "Frequent Flyer III",
+          "Name_fr": "Navigateur des cieux ténébreux",
+          "Name_ja": "漆黒の風を知る者",
+          "Name_kr": null,
+          "Url": "/Achievement/2335"
+        },
+        "Text": "Obtain “Freebird” achievements for Lakeland, Kholusia, Amh Araeng, Il Mheg, the Rak'tika Greatwood, and the Tempest."
+      },
+      {
+        "Data": {
+          "GamePatchID": 58,
+          "ID": 2349,
+          "Icon": "/i/002000/002645.png",
+          "Name": "Merchant's Best Friend",
+          "Name_cn": null,
+          "Name_de": "FATE-Händler: Norvrandt",
+          "Name_en": "Merchant's Best Friend",
+          "Name_fr": "Héros de grand chemin : Norvrandt",
+          "Name_ja": "広域交易商の味方：ノルヴラント",
+          "Name_kr": null,
+          "Url": "/Achievement/2349"
+        },
+        "Text": "Obtain “Free Market Friend” achievements for all six regions in Norvrandt."
+      },
+      {
+        "Data": {
+          "GamePatchID": 58,
+          "ID": 2356,
+          "Icon": "/i/002000/002685.png",
+          "Name": "Nuts for Nutsy",
+          "Name_cn": null,
+          "Name_de": "Norvrandt-Meisterjäger",
+          "Name_en": "Nuts for Nutsy",
+          "Name_fr": "Chasseur complètement kupo",
+          "Name_ja": "ナッツモブハンター",
+          "Name_kr": null,
+          "Url": "/Achievement/2356"
+        },
+        "Text": "Obtain the achievements “Shadowbring Your A Game III” and “Shadowbring Your S Game III.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 65,
+          "ID": 2474,
+          "Icon": "/i/062000/062969.png",
+          "Name": "Blue Unchained",
+          "Name_cn": null,
+          "Name_de": "Team Blau 3, Bahamut 0",
+          "Name_en": "Blue Unchained",
+          "Name_fr": "Conte bleu de Bahamut",
+          "Name_ja": "大迷宮を極めし青魔道士",
+          "Name_kr": null,
+          "Url": "/Achievement/2474"
+        },
+        "Text": "Obtain the achievements “Mightier than the Dragon,” “Mightier than the Raven,” and “Mightier than the Dreadwyrm.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 65,
+          "ID": 2475,
+          "Icon": "/i/062000/062969.png",
+          "Name": "Masked Conqueror",
+          "Name_cn": null,
+          "Name_de": "Team Blau 3, Alexander 0",
+          "Name_en": "Masked Conqueror",
+          "Name_fr": "Conte bleu d'Alexander",
+          "Name_ja": "機工城を極めし青魔道士",
+          "Name_kr": null,
+          "Url": "/Achievement/2475"
+        },
+        "Text": "Obtain the achievements “Mightier than the Manipulator,” “Mightier than Justice,” and “Mightier than the Prime.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 65,
+          "ID": 2476,
+          "Icon": "/i/062000/062969.png",
+          "Name": "True Blue",
+          "Name_cn": null,
+          "Name_de": "Team Blau ist Sieger",
+          "Name_en": "True Blue",
+          "Name_fr": "L'épopée des bleus d'Éorzéa",
+          "Name_ja": "豪傑の青魔道士",
+          "Name_kr": null,
+          "Url": "/Achievement/2476"
+        },
+        "Text": "Obtain the achievements “Blue Unchained” and “Masked Conqueror.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 71,
+          "ID": 2686,
+          "Icon": "/i/064000/064836.png",
+          "Name": "Close Encounters",
+          "Name_cn": null,
+          "Name_de": "Dreifacher Held der Südfront",
+          "Name_en": "Close Encounters",
+          "Name_fr": "Duelliste d'élite",
+          "Name_ja": "南方ボズヤ戦線の英雄",
+          "Name_kr": null,
+          "Url": "/Achievement/2686"
+        },
+        "Text": "Obtain the achievements “Missing an Angel,” “Lyon's Share,” and “Burn Baby Burn.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 74,
+          "ID": 2739,
+          "Icon": "/i/062000/062969.png",
+          "Name": "Omega Blue",
+          "Name_cn": null,
+          "Name_de": "Team Blau 3, Omega 0",
+          "Name_en": "Omega Blue",
+          "Name_fr": "Conte bleu d'Oméga",
+          "Name_ja": "次元の狭間を極めし青魔道士",
+          "Name_kr": null,
+          "Url": "/Achievement/2739"
+        },
+        "Text": "Obtain the achievements “Mightier than the Delta,” “Mightier than the Sigma,” and “Mightier than the Alpha.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 76,
+          "ID": 2834,
+          "Icon": "/i/001000/001113.png",
+          "Name": "No River Wide Enough",
+          "Name_cn": null,
+          "Name_de": "Formvollendete Kapitalbeschaffung",
+          "Name_en": "No River Wide Enough",
+          "Name_fr": "À la croisée des mers",
+          "Name_ja": "真太公望への道",
+          "Name_kr": null,
+          "Url": "/Achievement/2834"
+        },
+        "Text": "Obtain the achievements “Go Big or Go Home XVI” and “Go Big Far from Home V.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 76,
+          "ID": 2880,
+          "Icon": "/i/064000/064836.png",
+          "Name": "Close Encounters of the Zadnoran Kind",
+          "Name_cn": null,
+          "Name_de": "Dreifacher Held der Hochebene",
+          "Name_en": "Close Encounters of the Zadnoran Kind",
+          "Name_fr": "Duelliste d'élite de Zadnor",
+          "Name_ja": "ザトゥノル高原の英雄",
+          "Name_kr": null,
+          "Url": "/Achievement/2880"
+        },
+        "Text": "Obtain the achievements “Test Complete,” “Might Makes Right,” and “Untamed.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 76,
+          "ID": 2881,
+          "Icon": "/i/064000/064805.png",
+          "Name": "Sharper than Blades",
+          "Name_cn": null,
+          "Name_de": "Gunnhildrs Schwert",
+          "Name_en": "Sharper than Blades",
+          "Name_fr": "Lame de Gunnhildr",
+          "Name_ja": "グンヒルドの剣",
+          "Name_kr": null,
+          "Url": "/Achievement/2881"
+        },
+        "Text": "Obtain the achievements “Close Encounters” and “Close Encounters of the Zadnoran Kind.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 76,
+          "ID": 2886,
+          "Icon": "/i/026000/026184.png",
+          "Name": "A Complete History",
+          "Name_cn": null,
+          "Name_de": "Neues aus Bozja",
+          "Name_en": "A Complete History",
+          "Name_fr": "Biographe de Bozja",
+          "Name_ja": "ボズヤの記録員",
+          "Name_kr": null,
+          "Url": "/Achievement/2886"
+        },
+        "Text": "Obtain the achievements “Annals of War,” “Annals of Archaeology,” and “Annals of Liberation.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 77,
+          "ID": 2925,
+          "Icon": "/i/002000/002517.png",
+          "Name": "A Life of Adventure V",
+          "Name_cn": null,
+          "Name_de": "Tausendsassa V",
+          "Name_en": "A Life of Adventure V",
+          "Name_fr": "Légende du corps et de l'esprit",
+          "Name_ja": "十八の道を超えし者",
+          "Name_kr": null,
+          "Url": "/Achievement/2925"
+        },
+        "Text": "Obtain the achievements “Mastering War V” and “Mastering Magic V.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 77,
+          "ID": 3000,
+          "Icon": "/i/002000/002685.png",
+          "Name": "Endgame Hunter",
+          "Name_cn": null,
+          "Name_de": "Endzeit-Jäger",
+          "Name_en": "Endgame Hunter",
+          "Name_fr": "Chasseur de l'infini",
+          "Name_ja": "レジェンドモブハンター",
+          "Name_kr": null,
+          "Url": "/Achievement/3000"
+        },
+        "Text": "Obtain the “Take Your A Game Further III” and “Take Your S Game Further III” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 77,
+          "ID": 3009,
+          "Icon": "/i/021000/021901.png",
+          "Name": "Frequent Flyer IV",
+          "Name_cn": null,
+          "Name_de": "Vielflieger IV",
+          "Name_en": "Frequent Flyer IV",
+          "Name_fr": "Navigateur des cieux infinis",
+          "Name_ja": "暁月の風を知る者",
+          "Name_kr": null,
+          "Url": "/Achievement/3009"
+        },
+        "Text": "Obtain “Freebird” achievements for Labyrinthos, Thavnair, Garlemald, Mare Lamentorum, Elpis, and Ultima Thule."
+      },
+      {
+        "Data": {
+          "GamePatchID": 77,
+          "ID": 3028,
+          "Icon": "/i/002000/002645.png",
+          "Name": "Far Trade",
+          "Name_cn": null,
+          "Name_de": "Patron unendlicher Weiten",
+          "Name_en": "Far Trade",
+          "Name_fr": "La fin d'un chemin",
+          "Name_ja": "広域交易商のパトロン",
+          "Name_kr": null,
+          "Url": "/Achievement/3028"
+        },
+        "Text": "Obtain “Free Market Friend” achievements for Labyrinthos, Thavnair, Garlemald, Mare Lamentorum, Elpis, and Ultima Thule."
+      },
+      {
+        "Data": {
+          "GamePatchID": null,
+          "ID": 38873,
+          "Icon": "/i/021000/021005.png",
+          "Name": "Cookbook Printing Paraphernalia",
+          "Name_cn": null,
+          "Name_de": "Rezeptdruckutensil",
+          "Name_en": "Cookbook Printing Paraphernalia",
+          "Name_fr": "Ustensile d'imprimerie",
+          "Name_ja": "レシピ集印刷用具",
+          "Name_kr": null,
+          "Url": "/Item/38873"
+        },
+        "Text": "At the rate his cookbooks are being printed, Cookingway's authorial exploits may soon eclipse his culinary achievements.\n\n\n\n※Only for use in Loporrit tribal quests."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 56,
+          "Icon": "/i/002000/002517.png",
+          "Name": "A Life of Adventure I",
+          "Name_cn": null,
+          "Name_de": "Tausendsassa",
+          "Name_en": "A Life of Adventure I",
+          "Name_fr": "Maître du corps et de l'esprit",
+          "Name_ja": "八つの道を究めし者",
+          "Name_kr": null,
+          "Url": "/Achievement/56"
+        },
+        "Text": "Obtain the achievements “Mastering War I” and “Mastering Magic I.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 142,
+          "Icon": "/i/035000/035010.png",
+          "Name": "A Carpenter's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Einiges auf dem Kerbholz",
+          "Name_en": "A Carpenter's Life for Me",
+          "Name_fr": "Menuisier chevronné",
+          "Name_ja": "木工の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/142"
+        },
+        "Text": "Obtain the first five “Going with the Grain” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 148,
+          "Icon": "/i/035000/035110.png",
+          "Name": "A Blacksmith's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Virtuose auf dem Amboss",
+          "Name_en": "A Blacksmith's Life for Me",
+          "Name_fr": "Forcené de la forge",
+          "Name_ja": "鍛冶の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/148"
+        },
+        "Text": "Obtain the first five “Working the Bellows” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 154,
+          "Icon": "/i/035000/035209.png",
+          "Name": "An Armorer's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Alles unter dem Hammer",
+          "Name_en": "An Armorer's Life for Me",
+          "Name_fr": "Amoureux des armures",
+          "Name_ja": "板金の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/154"
+        },
+        "Text": "Obtain the first five “Pounding Out the Dents” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 160,
+          "Icon": "/i/035000/035309.png",
+          "Name": "A Goldsmith's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Goldfinger",
+          "Name_en": "A Goldsmith's Life for Me",
+          "Name_fr": "Des doigts en or",
+          "Name_ja": "彫金の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/160"
+        },
+        "Text": "Obtain the first five “Cutting the Carats” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 166,
+          "Icon": "/i/035000/035409.png",
+          "Name": "A Leatherworker's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Ledernacken",
+          "Name_en": "A Leatherworker's Life for Me",
+          "Name_fr": "J'ai le cuir dans la peau",
+          "Name_ja": "革細工の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/166"
+        },
+        "Text": "Obtain the first five “Hiding in Plain Sight” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 172,
+          "Icon": "/i/035000/035510.png",
+          "Name": "A Weaver's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Ordentlich Stoff gegeben",
+          "Name_en": "A Weaver's Life for Me",
+          "Name_fr": "Sous toutes les coutures",
+          "Name_ja": "裁縫の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/172"
+        },
+        "Text": "Obtain the first five “Threading the Needle” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 178,
+          "Icon": "/i/035000/035609.png",
+          "Name": "An Alchemist's Life for Me",
+          "Name_cn": null,
+          "Name_de": "Als Kind in den Zaubertrank gefallen",
+          "Name_en": "An Alchemist's Life for Me",
+          "Name_fr": "Élite des élixirs",
+          "Name_ja": "錬成の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/178"
+        },
+        "Text": "Obtain the first five “Mixing it Up” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 184,
+          "Icon": "/i/035000/035711.png",
+          "Name": "A Life of Cooking",
+          "Name_cn": null,
+          "Name_de": "Dampfkocher",
+          "Name_en": "A Life of Cooking",
+          "Name_fr": "Crème de la crème",
+          "Name_ja": "調理の匠",
+          "Name_kr": null,
+          "Url": "/Achievement/184"
+        },
+        "Text": "Obtain the first five “Savoring the Realm” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 190,
+          "Icon": "/i/001000/001002.png",
+          "Name": "A Miner's Life for Me: La Noscea",
+          "Name_cn": null,
+          "Name_de": "Schürfer Typ: La Noscea",
+          "Name_en": "A Miner's Life for Me: La Noscea",
+          "Name_fr": "Bonne pioche : la Noscea",
+          "Name_ja": "ラノシアの採掘王",
+          "Name_kr": null,
+          "Url": "/Achievement/190"
+        },
+        "Text": "Obtain all five “Mining Your Own Business: La Noscea” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 196,
+          "Icon": "/i/001000/001002.png",
+          "Name": "A Miner's Life for Me: Black Shroud",
+          "Name_cn": null,
+          "Name_de": "Schürfer Typ: Finsterwald",
+          "Name_en": "A Miner's Life for Me: Black Shroud",
+          "Name_fr": "Bonne pioche : Sombrelinceul",
+          "Name_ja": "黒衣森の採掘王",
+          "Name_kr": null,
+          "Url": "/Achievement/196"
+        },
+        "Text": "Obtain all five “Mining Your Own Business: Black Shroud” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 202,
+          "Icon": "/i/001000/001002.png",
+          "Name": "A Miner's Life for Me: Thanalan",
+          "Name_cn": null,
+          "Name_de": "Schürfer Typ: Thanalan",
+          "Name_en": "A Miner's Life for Me: Thanalan",
+          "Name_fr": "Bonne pioche : Thanalan",
+          "Name_ja": "ザナラーンの採掘王",
+          "Name_kr": null,
+          "Url": "/Achievement/202"
+        },
+        "Text": "Obtain all five “Mining Your Own Business: Thanalan” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 203,
+          "Icon": "/i/038000/038011.png",
+          "Name": "A Miner's Life for Me: Greater Eorzea",
+          "Name_cn": null,
+          "Name_de": "Prosperierender Prospektor",
+          "Name_en": "A Miner's Life for Me: Greater Eorzea",
+          "Name_fr": "Prospecteur prolifique",
+          "Name_ja": "黄金の鶴嘴",
+          "Name_kr": null,
+          "Url": "/Achievement/203"
+        },
+        "Text": "Obtain the “A Miner's Life for Me” achievements for La Noscea, the Black Shroud, and Thanalan."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 209,
+          "Icon": "/i/001000/001002.png",
+          "Name": "I'd Rather Be Quarrying: La Noscea",
+          "Name_cn": null,
+          "Name_de": "Das Erz am rechten Fleck: La Noscea",
+          "Name_en": "I'd Rather Be Quarrying: La Noscea",
+          "Name_fr": "Carriériste des carrières : la Noscea",
+          "Name_ja": "ラノシアの砕岩王",
+          "Name_kr": null,
+          "Url": "/Achievement/209"
+        },
+        "Text": "Obtain all five “Rocking Around the Clock: La Noscea” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 215,
+          "Icon": "/i/001000/001002.png",
+          "Name": "I'd Rather Be Quarrying: Black Shroud",
+          "Name_cn": null,
+          "Name_de": "Das Erz am rechten Fleck: Finsterwald",
+          "Name_en": "I'd Rather Be Quarrying: Black Shroud",
+          "Name_fr": "Carriériste des carrières : Sombrelinceul",
+          "Name_ja": "黒衣森の砕岩王",
+          "Name_kr": null,
+          "Url": "/Achievement/215"
+        },
+        "Text": "Obtain all five “Rocking Around the Clock: Black Shroud” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 221,
+          "Icon": "/i/001000/001002.png",
+          "Name": "I'd Rather Be Quarrying: Thanalan",
+          "Name_cn": null,
+          "Name_de": "Das Erz am rechten Fleck: Thanalan",
+          "Name_en": "I'd Rather Be Quarrying: Thanalan",
+          "Name_fr": "Carriériste des carrières : Thanalan",
+          "Name_ja": "ザナラーンの砕岩王",
+          "Name_kr": null,
+          "Url": "/Achievement/221"
+        },
+        "Text": "Obtain all five “Rocking Around the Clock: Thanalan” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 227,
+          "Icon": "/i/001000/001052.png",
+          "Name": "A Botanist's Life for Me: La Noscea",
+          "Name_cn": null,
+          "Name_de": "Beil von Vorteil: La Noscea",
+          "Name_en": "A Botanist's Life for Me: La Noscea",
+          "Name_fr": "Si six scies scient : la Noscea",
+          "Name_ja": "ラノシアの伐採王",
+          "Name_kr": null,
+          "Url": "/Achievement/227"
+        },
+        "Text": "Obtain all five “Logging the Hours: La Noscea” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 233,
+          "Icon": "/i/001000/001052.png",
+          "Name": "A Botanist's Life for Me: Black Shroud",
+          "Name_cn": null,
+          "Name_de": "Beil von Vorteil: Finsterwald",
+          "Name_en": "A Botanist's Life for Me: Black Shroud",
+          "Name_fr": "Si six scies scient : Sombrelinceul",
+          "Name_ja": "黒衣森の伐採王",
+          "Name_kr": null,
+          "Url": "/Achievement/233"
+        },
+        "Text": "Obtain all five “Logging the Hours: Black Shroud” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 239,
+          "Icon": "/i/001000/001052.png",
+          "Name": "A Botanist's Life for Me: Thanalan",
+          "Name_cn": null,
+          "Name_de": "Beil von Vorteil: Thanalan",
+          "Name_en": "A Botanist's Life for Me: Thanalan",
+          "Name_fr": "Si six scies scient : Thanalan",
+          "Name_ja": "ザナラーンの伐採王",
+          "Name_kr": null,
+          "Url": "/Achievement/239"
+        },
+        "Text": "Obtain all five “Logging the Hours: Thanalan” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 240,
+          "Icon": "/i/038000/038110.png",
+          "Name": "A Botanist's Life for Me: Greater Eorzea",
+          "Name_cn": null,
+          "Name_de": "Holzfällerlegende",
+          "Name_en": "A Botanist's Life for Me: Greater Eorzea",
+          "Name_fr": "Bûcheron bûcheur",
+          "Name_ja": "黄金の手斧",
+          "Name_kr": null,
+          "Url": "/Achievement/240"
+        },
+        "Text": "Obtain the “A Botanist's Life for Me” achievements for La Noscea, the Black Shroud, and Thanalan."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 246,
+          "Icon": "/i/001000/001052.png",
+          "Name": "I'd Rather Be Harvesting: La Noscea",
+          "Name_cn": null,
+          "Name_de": "Der unsichtbare Gärtner: La Noscea",
+          "Name_en": "I'd Rather Be Harvesting: La Noscea",
+          "Name_fr": "Faux et usage de faux : la Noscea",
+          "Name_ja": "ラノシアの草刈王",
+          "Name_kr": null,
+          "Url": "/Achievement/246"
+        },
+        "Text": "Obtain all five “Reaping What You Sow: La Noscea” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 252,
+          "Icon": "/i/001000/001052.png",
+          "Name": "I'd Rather Be Harvesting: Black Shroud",
+          "Name_cn": null,
+          "Name_de": "Der unsichtbare Gärtner: Finsterwald",
+          "Name_en": "I'd Rather Be Harvesting: Black Shroud",
+          "Name_fr": "Faux et usage de faux : Sombrelinceul",
+          "Name_ja": "黒衣森の草刈王",
+          "Name_kr": null,
+          "Url": "/Achievement/252"
+        },
+        "Text": "Obtain all five “Reaping What You Sow: Black Shroud” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 258,
+          "Icon": "/i/001000/001052.png",
+          "Name": "I'd Rather Be Harvesting: Thanalan",
+          "Name_cn": null,
+          "Name_de": "Der unsichtbare Gärtner: Thanalan",
+          "Name_en": "I'd Rather Be Harvesting: Thanalan",
+          "Name_fr": "Faux et usage de faux : Thanalan",
+          "Name_ja": "ザナラーンの草刈王",
+          "Name_kr": null,
+          "Url": "/Achievement/258"
+        },
+        "Text": "Obtain all five “Reaping What You Sow: Thanalan” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 264,
+          "Icon": "/i/001000/001103.png",
+          "Name": "A Fisher's Life for Me: La Noscea",
+          "Name_cn": null,
+          "Name_de": "Fisch frisch auf den Tisch: La Noscea",
+          "Name_en": "A Fisher's Life for Me: La Noscea",
+          "Name_fr": "Noyer le poisson : la Noscea",
+          "Name_ja": "ラノシアの釣り王",
+          "Name_kr": null,
+          "Url": "/Achievement/264"
+        },
+        "Text": "Obtain all five “Good Things Come to Those Who Bait: La Noscea” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 270,
+          "Icon": "/i/001000/001103.png",
+          "Name": "A Fisher's Life for Me: Black Shroud",
+          "Name_cn": null,
+          "Name_de": "Fisch frisch auf den Tisch: Finsterwald",
+          "Name_en": "A Fisher's Life for Me: Black Shroud",
+          "Name_fr": "Noyer le poisson : Sombrelinceul",
+          "Name_ja": "黒衣森の釣り王",
+          "Name_kr": null,
+          "Url": "/Achievement/270"
+        },
+        "Text": "Obtain all five “Good Things Come to Those Who Bait: Black Shroud” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 276,
+          "Icon": "/i/001000/001103.png",
+          "Name": "A Fisher's Life for Me: Thanalan",
+          "Name_cn": null,
+          "Name_de": "Fisch frisch auf den Tisch: Thanalan",
+          "Name_en": "A Fisher's Life for Me: Thanalan",
+          "Name_fr": "Noyer le poisson : Thanalan",
+          "Name_ja": "ザナラーンの釣り王",
+          "Name_kr": null,
+          "Url": "/Achievement/276"
+        },
+        "Text": "Obtain all five “Good Things Come to Those Who Bait: Thanalan” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 277,
+          "Icon": "/i/038000/038211.png",
+          "Name": "A Fisher's Life for Me: Greater Eorzea",
+          "Name_cn": null,
+          "Name_de": "König der Fischer",
+          "Name_en": "A Fisher's Life for Me: Greater Eorzea",
+          "Name_fr": "Mordu de l'hameçon",
+          "Name_ja": "黄金の釣竿",
+          "Name_kr": null,
+          "Url": "/Achievement/277"
+        },
+        "Text": "Obtain the “A Fisher's Life for Me” achievements for La Noscea, the Black Shroud, and Thanalan."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 283,
+          "Icon": "/i/062000/062911.png",
+          "Name": "I'd Rather Be Spearfishing: La Noscea",
+          "Name_cn": null,
+          "Name_de": "Alter Spießer: La Noscea",
+          "Name_en": "I'd Rather Be Spearfishing: La Noscea",
+          "Name_fr": "Dans les entrailles : la Noscea",
+          "Name_ja": "ラノシアの刺突王",
+          "Name_kr": null,
+          "Url": "/Achievement/283"
+        },
+        "Text": "Obtain all five “Getting Giggy with It: La Noscea” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 289,
+          "Icon": "/i/062000/062911.png",
+          "Name": "I'd Rather Be Spearfishing: Black Shroud",
+          "Name_cn": null,
+          "Name_de": "Alter Spießer: Finsterwald",
+          "Name_en": "I'd Rather Be Spearfishing: Black Shroud",
+          "Name_fr": "Dans les entrailles : Sombrelinceul",
+          "Name_ja": "黒衣森の刺突王",
+          "Name_kr": null,
+          "Url": "/Achievement/289"
+        },
+        "Text": "Obtain all five “Getting Giggy with It: Black Shroud” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 295,
+          "Icon": "/i/062000/062911.png",
+          "Name": "I'd Rather Be Spearfishing: Thanalan",
+          "Name_cn": null,
+          "Name_de": "Alter Spießer: Thanalan",
+          "Name_en": "I'd Rather Be Spearfishing: Thanalan",
+          "Name_fr": "Dans les entrailles : Thanalan",
+          "Name_ja": "ザナラーンの刺突王",
+          "Name_kr": null,
+          "Url": "/Achievement/295"
+        },
+        "Text": "Obtain all five “Getting Giggy with It: Thanalan” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 322,
+          "Icon": "/i/062000/062938.png",
+          "Name": "Sideways",
+          "Name_cn": null,
+          "Name_de": "Eine Seele von Abenteurer",
+          "Name_en": "Sideways",
+          "Name_fr": "Collection de digressions",
+          "Name_ja": "都市民の味方",
+          "Name_kr": null,
+          "Url": "/Achievement/322"
+        },
+        "Text": "Obtain all three “A Little Something on the Side” achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 414,
+          "Icon": "/i/002000/002627.png",
+          "Name": "Career Opportunities",
+          "Name_cn": null,
+          "Name_de": "Karrierist",
+          "Name_en": "Career Opportunities",
+          "Name_fr": "Parangon du professionnalisme",
+          "Name_ja": "戦う古典主義者",
+          "Name_kr": null,
+          "Url": "/Achievement/414"
+        },
+        "Text": "Obtain the following nine achievements: “Like a Knight in Shining Armor I,” “Bulletproof I,” “I Am the Warrior I,” Dragoon Age I,“ ”A Bard's Tale I,“ ”Seeing White I,“ ”Back in Black I,“ ”Soul Summoner I,“ and ”Flying Colors I.“"
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 509,
+          "Icon": "/i/062000/062908.png",
+          "Name": "Cascadier for Life",
+          "Name_cn": null,
+          "Name_de": "Ehrenwerter Kaskadeur auf Lebenszeit",
+          "Name_en": "Cascadier for Life",
+          "Name_fr": "Membre distingué de la B.A.B.",
+          "Name_ja": "終身名誉ABU隊員",
+          "Name_kr": null,
+          "Url": "/Achievement/509"
+        },
+        "Text": "Obtain all six Moonfire Faire achievements."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 526,
+          "Icon": "/i/062000/062910.png",
+          "Name": "Been There, Done That",
+          "Name_cn": null,
+          "Name_de": "Oshons Weggefährte",
+          "Name_en": "Been There, Done That",
+          "Name_fr": "Les voyages forment la jeunesse",
+          "Name_ja": "旅神オシュオンに愛されし者",
+          "Name_kr": null,
+          "Url": "/Achievement/526"
+        },
+        "Text": "Complete the “Taking in the Sights” achievements for La Noscea, the Black Shroud, Thanalan, Coerthas, and Mor Dhona."
+      },
+      {
+        "Data": {
+          "GamePatchID": 11,
+          "ID": 968,
+          "Icon": "/i/002000/002684.png",
+          "Name": "On Your Mark: B",
+          "Name_cn": null,
+          "Name_de": "Leichte Beute: B",
+          "Name_en": "On Your Mark: B",
+          "Name_fr": "Servir son rang B",
+          "Name_ja": "期待の新鋭モブハンター",
+          "Name_kr": null,
+          "Url": "/Achievement/968"
+        },
+        "Text": "Earn the following four achievements: Mark of the Holt: B, Mark of the Desert: B, Mark of the Sea: B, and Mark of the Lake: B."
+      },
+      {
+        "Data": {
+          "GamePatchID": 11,
+          "ID": 973,
+          "Icon": "/i/002000/002680.png",
+          "Name": "On Your Mark: A",
+          "Name_cn": null,
+          "Name_de": "Leichte Beute: A",
+          "Name_en": "On Your Mark: A",
+          "Name_fr": "Servir son rang A",
+          "Name_ja": "腕利き熟練モブハンター",
+          "Name_kr": null,
+          "Url": "/Achievement/973"
+        },
+        "Text": "Earn the following four achievements: Mark of the Holt: A, Mark of the Desert: A, Mark of the Sea: A, and Mark of the Lake: A."
+      },
+      {
+        "Data": {
+          "GamePatchID": 11,
+          "ID": 978,
+          "Icon": "/i/002000/002732.png",
+          "Name": "On Your Mark: S",
+          "Name_cn": null,
+          "Name_de": "Leichte Beute: S",
+          "Name_en": "On Your Mark: S",
+          "Name_fr": "Servir son rang S",
+          "Name_ja": "至高の有名モブハンター",
+          "Name_kr": null,
+          "Url": "/Achievement/978"
+        },
+        "Text": "Earn the following four achievements: Mark of the Holt: S, Mark of the Desert: S, Mark of the Sea: S, and Mark of the Lake: S."
+      },
+      {
+        "Data": {
+          "GamePatchID": 17,
+          "ID": 1088,
+          "Icon": "/i/002000/002601.png",
+          "Name": "How I Learned to Stop Worrying and Love the Saucer",
+          "Name_cn": null,
+          "Name_de": "Nymeias bester Freund",
+          "Name_en": "How I Learned to Stop Worrying and Love the Saucer",
+          "Name_fr": "Connaisseur en Saucer",
+          "Name_ja": "ハイローラー",
+          "Name_kr": null,
+          "Url": "/Achievement/1088"
+        },
+        "Text": "Earn the following seven achievements: Winningest Jockey, Always Bet on Me, Bracket Breaker, Enemy at the GATE III, WTFungah III, Work Smarter, Not Harder, and Mountains out of Gil-hills."
+      },
+      {
+        "Data": {
+          "GamePatchID": 19,
+          "ID": 1163,
+          "Icon": "/i/021000/021901.png",
+          "Name": "Frequent Flyer I",
+          "Name_cn": null,
+          "Name_de": "Vielflieger",
+          "Name_en": "Frequent Flyer I",
+          "Name_fr": "Navigateur des cieux du nord",
+          "Name_ja": "蒼天の風を知る者",
+          "Name_kr": null,
+          "Url": "/Achievement/1163"
+        },
+        "Text": "Obtain “Freebird” achievements for the Coerthas western highlands, the Dravanian forelands, the Dravanian hinterlands, the Churning Mists, the Sea of Clouds, and Azys Lla."
+      },
+      {
+        "Data": {
+          "GamePatchID": 19,
+          "ID": 1190,
+          "Icon": "/i/002000/002517.png",
+          "Name": "A Life of Adventure II",
+          "Name_cn": null,
+          "Name_de": "Tausendsassa II",
+          "Name_en": "A Life of Adventure II",
+          "Name_fr": "Virtuose du corps et de l'esprit",
+          "Name_ja": "十二の道を究めし者",
+          "Name_kr": null,
+          "Url": "/Achievement/1190"
+        },
+        "Text": "Obtain the achievements “Mastering War II” and “Mastering Magic II.”"
+      },
+      {
+        "Data": {
+          "GamePatchID": 77,
+          "ID": 598270,
+          "Icon": null,
+          "Name": null,
+          "Name_cn": null,
+          "Name_de": null,
+          "Name_en": null,
+          "Name_fr": null,
+          "Name_ja": null,
+          "Name_kr": null,
+          "Url": "/DefaultTalk/598270"
+        },
+        "Text": "We are in your eternal debt, not only for your achievements in thwarting the coming of the end, but also the safe return of our starship."
+      },
+      {
+        "Data": {
+          "GamePatchID": 77,
+          "ID": 598302,
+          "Icon": null,
+          "Name": null,
+          "Name_cn": null,
+          "Name_de": null,
+          "Name_en": null,
+          "Name_fr": null,
+          "Name_ja": null,
+          "Name_kr": null,
+          "Url": "/DefaultTalk/598302"
+        },
+        "Text": "I've thought a great deal about what I feel to be my greatest achievements since arriving here."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 590242,
+          "Icon": null,
+          "Name": null,
+          "Name_cn": null,
+          "Name_de": null,
+          "Name_en": null,
+          "Name_fr": null,
+          "Name_ja": null,
+          "Name_kr": null,
+          "Url": "/DefaultTalk/590242"
+        },
+        "Text": "Most know him, however, for his incredible skills as a blacksmith. Yet, despite his achievements, he is always willing to lend a kindly ear to those around him."
+      },
+      {
+        "Data": {
+          "GamePatchID": 2,
+          "ID": 590541,
+          "Icon": null,
+          "Name": null,
+          "Name_cn": null,
+          "Name_de": null,
+          "Name_en": null,
+          "Name_fr": null,
+          "Name_ja": null,
+          "Name_kr": null,
+          "Url": "/DefaultTalk/590541"
+        },
+        "Text": "In the midst of a Grand Company, however, you will be one <If(PlayerParameter(4))>woman<Else/>man</If> amongst many─a friend amongst friends. Your achievements will be shared, and so will the danger."
+      },
+      {
+        "Data": null,
+        "Text": "The black hitsuji yoriki, pleased with your achievements, presents you with a special kabuto as proof of your friendship. With the Brass Blades now fully apprised of the tender lamb's powers, it is only a matter of time before they place an order. Should his colleagues in Gridania and La Noscea meet with equal success, the air of Eorzea will soon be ringing with the martial bleats of the Fleece Force."
+      },
+      {
+        "Data": {
+          "GamePatchID": 8,
+          "ID": 591301,
+          "Icon": null,
+          "Name": null,
+          "Name_cn": null,
+          "Name_de": null,
+          "Name_en": null,
+          "Name_fr": null,
+          "Name_ja": null,
+          "Name_kr": null,
+          "Url": "/DefaultTalk/591301"
+        },
+        "Text": "I pray you do not take excessive pride in your achievements. Accomplished though you may be, your archery is far from perfect."
+      },
+      {
+        "Data": null,
+        "Text": "You have been recognized for your past achievements and promoted from an assistant to a full letter carrier. Remember that every delivery you complete helps the deputy postmoogle cling to his reason to live.\r\n...And congratulations on your promotion!"
+      },
+      {
+        "Data": null,
+        "Text": "Marcel commends you on your efforts, declaring your twin music boxes a masterpiece that will go down as one of the greatest goldsmithing achievements of your time. Rest not on your laurels, that one day your name might be engraved in the annals of history alongside the greatest masters the realm has ever known.\r\n\r\n※The next goldsmith quest will be available from Serendipity once you have met the following requirements:\r\n※ FINAL FANTASY XIV: Stormblood must be registered to your service account.\r\n※ You must have completed the main scenario quest “The Far Edge of Fate.”"
+      },
+      {
+        "Data": null,
+        "Text": "Other than unearthing lost treasures, we Qitari love nothing more than keeping records of our achievements. Even those too young to write can often be seen drawing maps of the places they've visited. Adorable, isn't it?"
+      },
+      {
+        "Data": null,
+        "Text": "Esdelot is delighted to hear of your achievements, and extends his gratitude for all you have done, as do the others. Thanks to you, Appius and Rimelnaud now dare to dream of the ways in which the newly recovered ceruleum supply will help the region and its people on their road to recovery."
+      }
+    ],
+    "SpeedMs": 47
+  }
