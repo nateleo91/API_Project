@@ -1,6 +1,5 @@
 import achieve from '../models/achievement.js'
 
-// module.exports = {
   const achieveController ={
 
   index: (req, res) => {
